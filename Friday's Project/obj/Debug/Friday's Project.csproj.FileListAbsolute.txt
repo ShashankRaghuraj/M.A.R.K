@@ -1,0 +1,38 @@
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.csprojAssemblyReference.cache
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.csproj.CoreCompileInputs.cache
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\Friday's Project.exe.config
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\Friday's Project.exe
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\Friday's Project.pdb
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\DarkSkyApi.dll
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\Wolfram.Alpha.dll
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.csproj.CopyComplete
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.exe
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.pdb
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\RestSharp.dll
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\WolframAlpha.NET.dll
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\RestSharp.xml
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\WolframAlpha.NET.pdb
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\WolframAlpha.NET.xml
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\NewsAPI.dll
+C:\Users\ESS-2207C-010\source\repos\Friday's Project\Friday's Project\bin\Debug\NewsAPI.xml
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\Friday's Project.exe.config
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\Friday's Project.exe
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\Friday's Project.pdb
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\DarkSkyApi.dll
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\NewsAPI.dll
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\RestSharp.dll
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\Wolfram.Alpha.dll
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\WolframAlpha.NET.dll
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\NewsAPI.xml
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\RestSharp.xml
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\WolframAlpha.NET.pdb
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\bin\Debug\WolframAlpha.NET.xml
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.csprojAssemblyReference.cache
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.csproj.CoreCompileInputs.cache
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.csproj.CopyComplete
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.exe
+C:\Users\shash\source\repos\Friday's Project\Friday's Project\obj\Debug\Friday's Project.pdb
