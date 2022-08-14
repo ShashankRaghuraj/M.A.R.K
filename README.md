@@ -1,6 +1,6 @@
 # M.A.R.K
 
-M.A.R.K (My Artificial Response Kit) is an app created during the Tech Corps Camp. With the time alloted (1 day) I created a voice assistant that has the following capabilities
+M.A.R.K (My Artificial Response Kit) is an app created during a hackathon. With the time alloted (1 day) I created a voice assistant that has the following capabilities
 1) Getting the Date
 2) Getting the Weather
 3) Calculating numbers: It's very basic
